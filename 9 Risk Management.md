@@ -3,7 +3,7 @@
 Fundamental process that involves identifying, analyzing, treating, monitoring, and reporting risks
 
 [[Risk Assessment Frequency]]
-- [[Ad-Hoc Risk Assessments]]
+- [[Ad-Hoc Risk Assessments]] (As-Needed)
 - [[Recurring Risk Assessments]]
 - [[One-Time Risk Assessments]]
 - [[Continuous Risk Assessments]]

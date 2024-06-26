@@ -8,7 +8,7 @@ Practice and study of writing and solving codes to hide the true meaning of the 
 - [[Data in Use]]
 
 # Cipher
-An algorith that merforms the encryption/decryption
+An algorith that performs the encryption/decryption
 
 # Key
 Essential piece of information that determines the output/input of a cipher
@@ -59,8 +59,8 @@ Essential piece of information that determines the output/input of a cipher
   - [[HMAC (Hash-based Message Authentication Code)]]
   - [[Digital Security Algorithm (DSA)]]
   - [[Digital Security Standard (DSS)]]
-  - [[Code Signing]]
 
+- [[Code Signing]]
 
 **Hash attacks**
 - [[Pass the Hash Attack]]

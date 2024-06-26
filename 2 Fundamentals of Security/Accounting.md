@@ -20,7 +20,7 @@ Provides a chronological record of all user activites that can be used to trace 
 
 # Regulatory Compliance
 
-Maintains a comprehensive record of all of the users' activities
+Objective that organizations aim to reach in adherence to applicable laws, policies, and regulations
 
 # Forensic Analysis
 

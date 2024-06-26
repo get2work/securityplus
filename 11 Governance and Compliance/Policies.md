@@ -3,7 +3,6 @@
 A document that outlines the do's and don'ts for users when interacting with an organization's IT systems and resources
     - Acceptable Use
     - [[Information Security Policies]]
-    - [[Business Continuity]]
     - [[Disaster Recovery]]
     - [[Incident Response]]
     - [[Software Development Lifecycle (SDLC)]]
@@ -17,7 +16,7 @@ Outline how an organization protects its information assets from threats, both i
     - Encryption
     - Physical Security
 
-# Business Continuity
+# Business Continuity Policy
 
 - [[Compliance]] can help an organization continue operating despite a disaster or disruption
 
@@ -32,8 +31,4 @@ A plan for handling security incidents
 # Software Development Lifecycle (SDLC)
 
 Guides how software is developed within an organization
-
-# Change Management
-
-Aims to ensure that changes are implemented in a controlled and coordinated manner, minimizing the risk of disruptions
 

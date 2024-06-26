@@ -8,11 +8,11 @@ Process that organizations implement to evaluate the security and performance of
 
 # Penetration Testing
 
-Simulated cyberattack against the supplier's system to check for exploitable vulnerabilities
+Simulated cyberattack against a computer system, network, or web application
 
 # Internal Audit
 
-Vendor's self-assessment where they evaluate their own practices against industry standards or organizational requirements
+Systematic Evaluation of the effectiveness of internal controls, compliance, and integrity of information systems and processes
 
 # Independent Assessment
 

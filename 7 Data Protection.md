@@ -72,7 +72,7 @@ Any data that could result in a loss is [[Sensitive Data]]
 - [[Hashing]]
 - [[Data Masking]]
 
-[[Data Loss Prevention (DLP)]]
+[[Data Loss Prevention (DLP)]] (Gate/Watchtower for data)
   - [[Endpoint DLP System]]
   - [[Network DLP System]]
   - [[Storage DLP]]

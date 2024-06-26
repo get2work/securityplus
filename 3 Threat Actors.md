@@ -34,4 +34,14 @@ Review [[Level of Sophistication and Capability]] of different threat actors
 
 View [[Threat Vector]] (Pathway) and [[Attack Surface]] (Attackable surface of your program/network/data)
 
-Study [[Tactics, Techniques and Procedures (TTPs)]] and implement [[Deception and Disruption Technologies]]
+Study [[Tactics, Techniques and Procedures (TTPs)]] and implement 
+[[Deception and Disruption Technologies]]
+- [[Honeyfiles]]
+- [[Honeypots]]
+- [[Honeynets]]
+- [[Honeytokens]]
+- [[Bogus DNS entries]]
+- [[Decoy Directories]]
+- [[Dynamic Page Generation]]
+- [[Port Triggering]]
+- [[Fake Telemetry Data]]

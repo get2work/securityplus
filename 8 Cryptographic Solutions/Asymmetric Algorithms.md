@@ -10,9 +10,9 @@ Use a pair of keys, a public key for encryption and a private key for decryption
 ![Public Key Cryptography](image.png)
 
 - [[Digital Signature]]
-  - Gives Confidentiality
-  - Non-Repudiation
-  - Integrity
+  - Gives [[Confidentiality]]
+  - [[Non-repudiation]]
+  - [[Integrity]]
 
 # Diffie-Hellman (DH)
 

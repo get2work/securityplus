@@ -17,5 +17,3 @@ These standards cover the physical measures taken to protect an organization's a
 # Encryption Standards
 
 - Ensure that data intercepted or accessesd without authorization remains unreadable and secure
-
-# 
