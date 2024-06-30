@@ -84,7 +84,7 @@ Essential piece of information that determines the output/input of a cipher
 Review [[Public Key Infrastructure (PKI)]]
 - [[Certificate Authority]]
 - [[Key Escrow]] may be used for key storage but if hacked will cause alarge leak of data
-- 
+
 [[Digital Certificate]]
 - [[Wildcard Certificate]]
 - [[Subject Alternate Name (SAN) field]]

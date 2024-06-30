@@ -76,8 +76,3 @@ https://diontraining.com/discord
     -Everything will be vendor neutral and generic
     -Know what the tool is used for.
     -NMap is the network mapping tool. (all needed)
-
-
-
-
-

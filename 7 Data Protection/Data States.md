@@ -84,14 +84,40 @@ TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are both cryptogra
 
 In summary, TLS is the more secure and modern protocol compared to SSL. It offers stronger encryption algorithms, better compatibility, and improved security features. It is recommended to use TLS instead of SSL for secure communication over a network.
 
-# Virtual Private Network (VPN)
-
-Technology that creates a secure connection over a less secure network (Internet)
-
 # Internet Protocol Security (IPSec)
 
 Protocol suite used to secure IP communications by authenticating and encrypting each IP packet in a data stream.
 
+- Provides Confidentiality by using Data Encryption
+- Guarantees [[Integrity]] by ensuring that our data was not modified in transit by checking hash digest before and after transmission
+- Authentication: Provides by checking client and server are who they claim to be
+- Provides anti-replaying by checking the sequence of  numbers on all of the packets before theyre sent
+
+Steps:
+1. Request to start a Internet Key Exchange (IKE)
+2. IKE Phase 1 (Authenticate the parties and establish a secure channel for negotiation)
+3. IKE Phase 2 (Negotiate the security association parameters and fully establish the secure tunnel)
+4. Data Transfer (Allow data transfer between the two parties to occur over the secure tunnel using the IPSec parameters and keys that we stored from the security associations negotiated in step 3)
+ - Uses [[Tunneling Mode]] or [[Transport Mode]]
+5. Tunnel Termination (Terminated due to completion and deletion or due to the timing out of the tunnel because one party became non-responsive)
+
+# Transport Mode
+
+Employes the original IP header, ideal for client-to-site VPNs, and is advantageous when dealing with MTU (Maximum Transmission Unit) constraints
+(MTU only set at 1500 bytes by default)
+(Doesnt add padding to your packet and doesnt increase its size)
+
+- Use the Authentication Header for TCP header integrity, then add Encapsulating Security Payload to encrypt TCP header and payload
+
+# Tunneling Mode
+
+Employed for site-to-site VPNS and adds an extra header that can increase packet size and exceed the MTU
+
+Encapsulates the packet into another packet that then gets broken down and decrypted by the receiving site/client.
+
+Site-to-site VPNs may require support for jumbo frames above an MTU of 1500 bytes
+
+Use both authentication header and the encapsulating security payload
 
 # Secure Enclaves
 

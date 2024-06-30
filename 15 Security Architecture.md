@@ -9,27 +9,85 @@ Traditional method of setting up infrastructure and services locally, within an 
 
 Involves delivering computing services over the internet
 
-# Serverless Computing
+[[On-premise vs the Cloud]]
++ [[Cloud Computing]]
+- Servers
++ Storage
+- Databases
++ Networking
+- Software Analytics
++ Intelligence
 
-Computing model where the cloud provider dynamically manages the allocation and provisioning of servers
+**Concepts**
+- [[Responsibility Matrix]]
+- [[Third-Party Vendors]]
+- [[Hybrid Solutions]]
+- [[On-Premise]]
 
-# Software-Defined Networking (SDN)
+**Things to COnsider**
+- Availability
+- [[Cyber Resilience]]
+- **Cost**: Consider immediate and long-term cost
+- **Responsiveness**: speed at which the system can adapt to changes in traffic
+- **Scalability** : Ability to scale in workload
+- **Ease of Deployment** : Cloud easier to deploy
+- **Risk Transference** : When using the cloud services, some risks are transferred to the provider
+- **Patch Availability**
+- **Inability to Patch**
+- **Power**: Electrical power consumption and backup power
+- **Compute**: Amount of computational resources a customer can use
 
-Network management method that allows dynamic and efficient network configuration to improve performance and monitoring
+[[Cloud Security Threats]]
+- [[Shared Physical Server Vulnerabilities]]
+- [[Inadequate Virtual Environment Security]]
+- [[Single Points of Failure]]
+- [[Weak Authentication and Encryption Practices]]
+- [[Unclear Policies]]
+- [[Data Remnants]]
 
-# Infrastructure as Code (IaC)
+[[Virtualization]]
+**Vulnerabilities:**
+- [[VM Escape]]
+- [[Privilege Elevation]]
+- [[Live VM Migration]]
+- [[Resource Reuse]]
+- [[VM Sprawl]]
 
-IT setup where developers use software to manage and provision the technology stack for an application
+[[Containerization]]
 
-# Internet of Things (IoT)
+[[Hypervisor Type 1]]
+[[Hypervisor Type 2]]
 
-Network of physical devices, vehicles, and appliances, with sensors, software, and network connectivity
+[[Serverless Computing]]
 
-# Industrial Control Systems (ICS)
+[[Microservices]]
+- [[Physical Separation/Air Gapping]]
+- [[Logical Separation]]
 
-Types of control systems used in industrial production
+[[Software-Defined Networking (SDN)]]
+- [[SDN Data Plane]]
+- [[SDN Control Plane]]
+- [[Application Plane]]
 
-# Supervisory Control and Data Acquisition (SCADA)
+[[Infrastructure as Code (IaC)]]
+- [[Snowflake System]]
+- [[Idempotence]]
 
-Used to control and monitor physical processes
+[[Centralized]]
+[[Decentralized]]
 
+[[Internet of Things (IoT)]]
+- [[Hub]]
+- [[Smart Devices]]
+- [[Wearables]]
+- [[Sensors]]
+- 
+[[Industrial Control Systems (ICS)]]
+[[Supervisory Control and Data Acquisition (SCADA)]]
+
+[[Embedded System]]
+ - [[Inability to Patch]]
+[[Real-Time Operating System (RTOS)]]
+[[Network Segmentation]]
+[[Wrappers]]
+[[Firmware Code Control]]
