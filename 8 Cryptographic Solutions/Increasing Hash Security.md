@@ -17,11 +17,11 @@ Adding random data into a one-way cryptographic hash to help protect against pas
 
 # Dictionary Attack
 
-When an attacker tries every word in a list
+Using a list (or 'dictionary') of commonly used passwords and trying them all
 
 # Brute-force Attack
 
-When an attacker tries every posslbe password combination
+Involves trying every possible combination of characters until the correct password is found
 
 # Rainbow Tables
 

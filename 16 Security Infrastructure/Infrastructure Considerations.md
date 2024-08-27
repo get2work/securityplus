@@ -22,3 +22,24 @@ Referse to all the points where an unauthorized user can try to enter data to or
 # Connectivity
 
 Refers to how different components of a netwrok communicate with each other and with other external networks
+
+# Inline Device
+
+Sits in the network traffic path, and is able to control or block traffic as it passes through this device
+
+- Firewall
+- Router
+- IPS
+
+# Taps and monitors
+
+operate discreetly outside the network path, capturing data for analysis without impacting traffic
+
+# Fail-open
+
+Allows all traffic in the event of a failure
+
+# Fail-close
+
+blocks all traffic in the event of a failure
+

@@ -138,3 +138,33 @@ Network security and connectivity framework that integrates network security and
 [[Software-Defined Wide Area Network (SD-WAN)]]
 [[Secure Access Service Edge (SASE)]]
 
+[Infrastructure Considerations](16%20Security%20Infrastructure/Infrastructure%20Considerations.md)
+
+[[Security Zone]]
+[[Screened Subnet]]
+- [[Screened Subnet (Dual-homed Host)]]
+[[Attack Surface of a Network]]
+[[Connectivity]]
+- [[Inline Device]]
+- [[Taps and monitors]]
+[[Fail-open]]
+[[Fail-close]]
+
+[Selecting Infrastructure Controls](16%20Security%20Infrastructure/Selecting%20Infrastructure%20Controls.md)
+
+[[Control]]
+- Key principles:
+  - [[Least Privilege]]
+  - [[Defense in Depth]]
+  - [[Risk-based Approach]]
+  - [[Lifecycle Management]]
+  - [[Open Design Principle]]
+
+- Control Selection Methodology:
+  - Assessing the current state
+  - Conducting [[Gap Analysis]]
+  - Setting Clear Objectives
+  - Benchmarking
+  - Conducting cost-benefit analysis
+  - Ensuring stakeholder involvement
+  - Implementing monitoring and feedback loops
